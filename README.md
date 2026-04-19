@@ -413,8 +413,8 @@ kmeans = KMeans(n_clusters=k, random_state=42, n_init=20)
 ## 👨‍💼 Author
 
 **Sagar Singh / Aspiring Data Scientist**  
-- GitHub: [@yourusername](https://github.com/SagarSingh2004)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sagar-s-10a53028a)
+- GitHub: [SagarSingh2004](https://github.com/SagarSingh2004)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sagar-s-10a53028a)
 - Email: itsofficialworkforss@gmail.com
 
 ---
