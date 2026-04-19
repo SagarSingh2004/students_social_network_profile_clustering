@@ -10,10 +10,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files (avoid pushing large data)
-data/raw/
-data/processed/
-
 # OS files
 .DS_Store
 Thumbs.db
